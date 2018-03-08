@@ -1,0 +1,24 @@
+{
+  "name": "jquery.helper",
+  "homepage": "https://github.com/philsweb/js.helper",
+  "authors": [
+    "Philipp Nikolajev philipp.nikolajev@gmail.com"
+  ],
+  "description": "JavaScript library jQuery utilities that save time",
+  "main": "",
+  "keywords": [
+    "javascript",
+    "jquery",
+    "extension",
+    "helper",
+    "utilities"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
